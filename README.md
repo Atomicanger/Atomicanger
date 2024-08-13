@@ -63,7 +63,7 @@ This repository presents a comprehensive stress detection project utilizing mach
 | Logistic Regression  | 75.29%   | 0.6660   | 0.7440    | 0.6491  |
 | KNN                  | 99.95%   | 0.9994   | 0.9995    | 0.9993  |
 | Random Forest        | 99.98%   | 0.9998   | 0.9998    | 0.9998  |
-| ANN                  | 92.24%   | -        | -         | -       |
+
 
 ### Results and Analysis
 
